@@ -1,0 +1,604 @@
+/* extra-small start */
+@media (min-width: 375px) and (max-width:575px) {
+    /* navbar start */
+    .navbar .container{
+        width: 90%;
+        margin-top: 25px;
+        margin-bottom: 30px;
+    }
+    .navbar .container a{
+        font-size: 28px;
+    }
+    .navbar .container a img{
+        width: 30%;
+    }
+    .navbar .container .navbar-nav .nav-item{
+        margin-left: 60px;
+        justify-content: end;
+    }
+    .navbar .container .navbar-nav .nav-item a{
+        font-size: 18px;
+    }
+    .navbar-toggler {
+        border: 3px solid black;
+    }
+    .navbar-toggler:hover {  
+        background: #ffe957;
+    }
+    .navbar-toggler i{
+        color: #010101;
+    }
+    /* navbar end */
+    /* carousel section start */
+    .carousel-section{
+        padding-bottom: 10px;
+    }
+    .carousel-section .container .carousel-inner .carousel-item h3 {
+        font-size: 25px;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item h5 {
+        font-size: 16px;
+        width: 100%;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item p {
+        font-size: 14px;
+        width: 100%;
+        line-height: 18px;
+        text-align: justify;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .icon{
+        margin-top: 25px;
+        margin-bottom: 35px;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .icon img {
+        width: 16%;
+        margin-right: 20px;
+        text-align: center;
+    }
+    /* carousel section end */
+    /* features start */
+    .features-section{
+        margin-bottom: 40px;
+    }
+    .features-section .container{
+        width: 95%;
+    }
+    .features-section .container .features-header{
+        margin-top: 40px;
+    }
+    .features-section .container .features-header h3{
+        font-family: PTSansBold;
+        font-size: 35px;
+        color: #010101;
+        margin-bottom: 12px;
+    }
+    .features-section .container .features-header h5 {
+        font-size: 14px;
+        line-height: 18px;
+        width: 100%;
+        text-align: center;
+        line-height: 18px;
+    }
+    .features-section .features-icon i{
+        font-size: 80px;
+    }
+    .features-text{
+        text-align: center;
+        cursor: pointer;
+    }
+    .features-section .features-text h3{
+        font-size: 22px;
+        margin-top: 15px;
+    }
+    .pt-5 {
+        padding-top: 2rem !important;
+    }
+    .pt-4 {
+        padding-top: 0rem !important;
+    }
+    /* features end */
+    /* subscribe start */
+    .subscribe .container{
+        width: 80%;
+    }
+    .subscribe .container .subscribe-header{
+        padding-top: 50px;
+    }
+    .subscribe .container .subscribe-header h3{
+        font-size: 32px;
+    }
+    .subscribe .container .subscribe-header h5{
+        text-align: justify;
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 12px;
+        margin-bottom: 25px;
+    }
+    .subscribe .container .subscribe-section .subscribe-form input{
+        padding: 15px 15px;
+    }
+    .subscribe .container .subscribe-section .subscribe-button button{
+        margin-top: 5px;
+    }
+    .subscribe .container .social-connect{
+        margin-top: 40px;
+    }
+    .subscribe .container .social-connect .social-icon i {
+        font-size: 50px;
+        padding: 5px 4px;
+    }
+    /* subscribe end */
+    /* footer start */
+    .footer{
+        background: #010101;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .footer .container{
+        width: 90%;
+    }
+    .footer-items{
+        margin-bottom: 20px;
+    }
+    .footer .container .footer-section .footer-items p{
+        color: #fff;
+        font-size: 14px;
+    }
+    .footer .container .footer-section .footer-items a{
+        color: #fff;
+        font-size: 14px;
+    }
+    .footer .container .footer-section .footer-items a:hover{
+        color: #FCDB00;
+    }
+}
+/* extra-small end */
+@media (min-width: 576px) and (max-width:767px) {
+    /* navbar start */
+    .navbar .container{
+        width: 80%;
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+    .navbar-toggler {
+        border: 3px solid black;
+    }
+    .navbar-toggler:hover {  
+        background: #ffe957;
+    }
+    .navbar-toggler i{
+        color: #010101;
+    }
+    /* navbar end */
+    /* carousel section start */
+    .carousel-section{
+        padding-bottom: 10px;
+    }
+    .carousel-section .container{
+        width: 80%;
+    }
+    .carousel-section .container .carousel-inner .carousel-item h3 {
+        font-size: 30px;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item h5 {
+        font-size: 16px;
+        width: 100%;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item p {
+        font-size: 16px;
+        width: 100%;
+        line-height: 18px;
+        text-align: justify;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .icon{
+        margin-top: 25px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .icon img {
+        width: 8%;
+        margin: 0px 20px;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .iPad img{
+        width: 50%;
+        margin-bottom: 70px;
+    }
+    /* carousel section end */
+    /* features start */
+    .features-section{
+        margin-bottom: 40px;
+    }
+    .features-section .container{
+        width: 95%;
+    }
+    .features-section .container .features-header{
+        margin-top: 40px;
+    }
+    .features-section .container .features-header h3{
+        font-size: 35px;
+        margin-bottom: 12px;
+    }
+    .features-section .container .features-header h5 {
+        font-size: 16px;
+        line-height: 18px;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .features-section .features-icon i{
+        font-size: 80px;
+    }
+    .features-text{
+        text-align: center;
+        cursor: pointer;
+    }
+    .features-section .features-text h3{
+        font-size: 22px;
+        margin-top: 10px;
+    }
+    .pt-5 {
+        padding-top: 1rem !important;
+    }
+    .pt-4 {
+        padding-top: 0rem !important;
+    }
+    /* features end */
+    /* subscribe start */
+    .subscribe .container{
+        width: 80%;
+    }
+    .subscribe .container .subscribe-header{
+        padding-top: 50px;
+    }
+    .subscribe .container .subscribe-header h3{
+        font-size: 32px;
+    }
+    .subscribe .container .subscribe-header h5{
+        text-align: justify;
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 12px;
+        margin-bottom: 25px;
+    }
+    .subscribe .container .subscribe-section .subscribe-form input{
+        padding: 15px 15px;
+    }
+    .subscribe .container .subscribe-section .subscribe-button button{
+        margin-top: 5px;
+    }
+    .subscribe .container .social-connect{
+        margin-top: 40px;
+    }
+    .subscribe .container .social-connect .social-icon i {
+        font-size: 50px;
+        padding: 5px 4px;
+    }
+    /* subscribe end */
+    /* footer start */
+    .footer{
+        background: #010101;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .footer .container{
+        width: 90%;
+    }
+    .footer-items{
+        margin-bottom: 20px;
+    }
+    .footer .container .footer-section .footer-items p{
+        color: #fff;
+        font-size: 14px;
+    }
+    .footer .container .footer-section .footer-items a{
+        color: #fff;
+        font-size: 14px;
+    }
+    .footer .container .footer-section .footer-items a:hover{
+        color: #FCDB00;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    /* navbar start */
+    .navbar .container{
+        width: 80%;
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+    .navbar-toggler {
+        border: 3px solid black;
+    }
+    .navbar-toggler:hover {  
+        background: #ffe957;
+    }
+    .navbar-toggler i{
+        color: #010101;
+    }
+    /* navbar end */
+    /* carousel section start */
+    .carousel-section{
+        padding-bottom: 10px;
+    }
+    .carousel-section .container{
+        width: 80%;
+    }
+    .carousel-section .container .carousel-inner .carousel-item h3 {
+        font-size: 30px;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item h5 {
+        font-size: 16px;
+        width: 100%;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item p {
+        font-size: 16px;
+        width: 100%;
+        line-height: 18px;
+        text-align: justify;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .icon{
+        margin-top: 25px;
+        margin-bottom: 30px;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .icon img {
+        width: 8%;
+        margin: 0px 20px;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .iPad img{
+        width: 50%;
+        margin-bottom: 70px;
+    }
+    /* carousel section end */
+    /* features start */
+    .features-section{
+        margin-bottom: 40px;
+    }
+    .features-section .container{
+        width: 95%;
+    }
+    .features-section .container .features-header{
+        margin-top: 40px;
+    }
+    .features-section .container .features-header h3{
+        font-size: 35px;
+        margin-bottom: 12px;
+    }
+    .features-section .container .features-header h5 {
+        font-size: 16px;
+        line-height: 18px;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 25px;
+    }
+    .features-section .features-icon i{
+        font-size: 80px;
+    }
+    .features-text{
+        text-align: center;
+        cursor: pointer;
+    }
+    .features-section .features-text h3{
+        font-size: 22px;
+        margin-top: 10px;
+    }
+    .pt-5 {
+        padding-top: 1rem !important;
+    }
+    .pt-4 {
+        padding-top: 0rem !important;
+    }
+    /* features end */
+    /* subscribe start */
+    .subscribe .container{
+        width: 80%;
+    }
+    .subscribe .container .subscribe-header{
+        padding-top: 50px;
+    }
+    .subscribe .container .subscribe-header h3{
+        font-size: 32px;
+    }
+    .subscribe .container .subscribe-header h5{
+        text-align: justify;
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 12px;
+        margin-bottom: 25px;
+    }
+    .subscribe .container .subscribe-section .subscribe-form input{
+        padding: 15px 15px;
+    }
+    .subscribe .container .subscribe-section .subscribe-button button{
+        margin-top: 5px;
+    }
+    .subscribe .container .social-connect{
+        margin-top: 40px;
+    }
+    .subscribe .container .social-connect .social-icon i {
+        font-size: 50px;
+        padding: 5px 4px;
+    }
+    /* subscribe end */
+    /* footer start */
+    .footer{
+        background: #010101;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .footer .container{
+        width: 90%;
+    }
+    .footer-items{
+        margin-bottom: 20px;
+    }
+    .footer .container .footer-section .footer-items p{
+        color: #fff;
+        font-size: 14px;
+    }
+    .footer .container .footer-section .footer-items a{
+        color: #fff;
+        font-size: 14px;
+    }
+    .footer .container .footer-section .footer-items a:hover{
+        color: #FCDB00;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+    /* navbar start */
+    .navbar .container{
+        width: 70%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    /* navbar end */
+    /* carousel section start */
+    .carousel-section{
+        padding-bottom: 30px;
+    }
+    .carousel-section .container{
+        width: 70%;
+    }
+    .carousel-section .container .carousel-inner .carousel-item h3 {
+        font-size: 32px;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item h5 {
+        font-size: 21px;
+        width: 100%;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item p {
+        font-size: 17px;
+        width: 100%;
+        line-height: 18px;
+        text-align: justify;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .icon{
+        margin-top: 25px;
+        text-align: center;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .icon img {
+        width: 8%;
+        margin: 0px 20px;
+    }
+    .carousel-section .container .carousel-inner .carousel-item .iPad img{
+        width: 80%;
+        margin-bottom: 70px;
+    }
+    /* carousel section end */
+    /* features start */
+    .features-section{
+        margin-bottom: 40px;
+    }
+    .features-section .container{
+        width: 70%;
+    }
+    .features-section .container .features-header{
+        margin-top: 45px;
+    }
+    .features-section .container .features-header h3{
+        font-size: 35px;
+        margin-bottom: 12px;
+    }
+    .features-section .container .features-header h5 {
+        font-size: 18px;
+        line-height: 18px;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .features-section .features-icon i{
+        font-size: 50px;
+    }
+    .features-text{
+        text-align: center;
+        cursor: pointer;
+    }
+    .features-section .features-text h3{
+        font-size: 18px;
+        margin-top: 5px;
+    }
+    .features-section .features-text p{
+        font-size: 13px;
+        text-align: justify;
+    }
+    .pt-5 {
+        padding-top: 1rem !important;
+    }
+    .pt-4 {
+        padding-top: 0rem !important;
+    }
+    /* features end */
+    /* subscribe start */
+    .subscribe .container{
+        width: 70%;
+    }
+    .subscribe .container .subscribe-header{
+        padding-top: 50px;
+    }
+    .subscribe .container .subscribe-header h3{
+        font-size: 32px;
+    }
+    .subscribe .container .subscribe-header h5{
+        text-align: justify;
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 12px;
+        margin-bottom: 25px;
+    }
+    .subscribe .container .subscribe-section .subscribe-form input{
+        padding: 15px 15px;
+    }
+    .subscribe .container .subscribe-section .subscribe-button button{
+        margin-top: 5px;
+    }
+    .subscribe .container .social-connect{
+        margin-top: 40px;
+    }
+    .subscribe .container .social-connect .social-icon i {
+        font-size: 50px;
+        padding: 5px 4px;
+    }
+    /* subscribe end */
+    /* footer start */
+    .footer{
+        background: #010101;
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .footer .container{
+        width: 70%;
+    }
+    .footer-items{
+        margin-bottom: 20px;
+    }
+    .footer .container .footer-section .footer-items p{
+        color: #fff;
+        font-size: 14px;
+    }
+    .footer .container .footer-section .footer-items a{
+        color: #fff;
+        font-size: 14px;
+    }
+    .footer .container .footer-section .footer-items a:hover{
+        color: #FCDB00;
+    }
+}
+
+
+
+
+@media (min-width: 992px) { ... }
+@media (min-width: 1200px) { ... }
+@media (min-width: 1400px) { ... }
